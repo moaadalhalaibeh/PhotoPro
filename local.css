@@ -1,0 +1,23 @@
+body
+{
+    background-color: #373737;
+}
+nav a
+{
+    color: white;
+    text-decoration: none;
+}
+nav a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+.row p
+{
+    text-align: justify;
+}
+h3
+{
+    background-color: #303030;
+    padding: 10px;
+}
